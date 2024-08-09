@@ -9,6 +9,6 @@ This repository contains a Pine Script indicator named "Fair Value Gap" which de
 
 ### How to Use
 
-1. Copy the script code from `my_script.pinescript`.
+1. Copy the script code from `FVG.txt`.
 2. Paste it into TradingView's Pine Script editor.
 3. Save and add the indicator to your chart.
